@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "playbtn.png",
+      "filename" : "splash_img.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "btnsmall 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "btnsmall.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
